@@ -1,0 +1,12 @@
+C:\Users\matth\Code\serde-reflection\serde-generate\tests\test_csharp_runtime_on_simple_data\Serde.Tests\bin\Debug\netstandard1.6\Serde.Tests.deps.json
+C:\Users\matth\Code\serde-reflection\serde-generate\tests\test_csharp_runtime_on_simple_data\Serde.Tests\bin\Debug\netstandard1.6\Serde.Tests.dll
+C:\Users\matth\Code\serde-reflection\serde-generate\tests\test_csharp_runtime_on_simple_data\Serde.Tests\bin\Debug\netstandard1.6\Serde.Tests.pdb
+C:\Users\matth\Code\serde-reflection\serde-generate\tests\test_csharp_runtime_on_simple_data\Serde.Tests\bin\Debug\netstandard1.6\Serde.dll
+C:\Users\matth\Code\serde-reflection\serde-generate\tests\test_csharp_runtime_on_simple_data\Serde.Tests\bin\Debug\netstandard1.6\Serde.pdb
+C:\Users\matth\Code\serde-reflection\serde-generate\tests\test_csharp_runtime_on_simple_data\Serde.Tests\obj\Debug\netstandard1.6\Serde.Tests.csprojAssemblyReference.cache
+C:\Users\matth\Code\serde-reflection\serde-generate\tests\test_csharp_runtime_on_simple_data\Serde.Tests\obj\Debug\netstandard1.6\Serde.Tests.AssemblyInfoInputs.cache
+C:\Users\matth\Code\serde-reflection\serde-generate\tests\test_csharp_runtime_on_simple_data\Serde.Tests\obj\Debug\netstandard1.6\Serde.Tests.AssemblyInfo.cs
+C:\Users\matth\Code\serde-reflection\serde-generate\tests\test_csharp_runtime_on_simple_data\Serde.Tests\obj\Debug\netstandard1.6\Serde.Tests.csproj.CoreCompileInputs.cache
+C:\Users\matth\Code\serde-reflection\serde-generate\tests\test_csharp_runtime_on_simple_data\Serde.Tests\obj\Debug\netstandard1.6\Serde.Tests.csproj.CopyComplete
+C:\Users\matth\Code\serde-reflection\serde-generate\tests\test_csharp_runtime_on_simple_data\Serde.Tests\obj\Debug\netstandard1.6\Serde.Tests.dll
+C:\Users\matth\Code\serde-reflection\serde-generate\tests\test_csharp_runtime_on_simple_data\Serde.Tests\obj\Debug\netstandard1.6\Serde.Tests.pdb

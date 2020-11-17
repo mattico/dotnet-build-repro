@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\matth\\Code\\serde-reflection\\serde-generate\\tests\\test_csharp_runtime_on_simple_data\\Serde.Tests\\Serde.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\matth\\Code\\serde-reflection\\serde-generate\\tests\\test_csharp_runtime_on_simple_data\\Serde.Tests\\Serde.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\matth\\Code\\serde-reflection\\serde-generate\\tests\\test_csharp_runtime_on_simple_data\\Serde.Tests\\Serde.Tests.csproj",
+        "projectName": "Serde.Tests",
+        "projectPath": "C:\\Users\\matth\\Code\\serde-reflection\\serde-generate\\tests\\test_csharp_runtime_on_simple_data\\Serde.Tests\\Serde.Tests.csproj",
+        "packagesPath": "C:\\Users\\matth\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\matth\\Code\\serde-reflection\\serde-generate\\tests\\test_csharp_runtime_on_simple_data\\Serde.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\matth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.6"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.6": {
+            "targetAlias": "netstandard1.6",
+            "projectReferences": {
+              "C:\\Users\\matth\\Code\\serde-reflection\\serde-generate\\tests\\test_csharp_runtime_on_simple_data\\Serde\\Serde.csproj": {
+                "projectPath": "C:\\Users\\matth\\Code\\serde-reflection\\serde-generate\\tests\\test_csharp_runtime_on_simple_data\\Serde\\Serde.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.6": {
+          "targetAlias": "netstandard1.6",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\matth\\Code\\serde-reflection\\serde-generate\\tests\\test_csharp_runtime_on_simple_data\\Serde\\Serde.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\matth\\Code\\serde-reflection\\serde-generate\\tests\\test_csharp_runtime_on_simple_data\\Serde\\Serde.csproj",
+        "projectName": "Serde",
+        "projectPath": "C:\\Users\\matth\\Code\\serde-reflection\\serde-generate\\tests\\test_csharp_runtime_on_simple_data\\Serde\\Serde.csproj",
+        "packagesPath": "C:\\Users\\matth\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\matth\\Code\\serde-reflection\\serde-generate\\tests\\test_csharp_runtime_on_simple_data\\Serde\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\matth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.6"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.6": {
+            "targetAlias": "netstandard1.6",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.6": {
+          "targetAlias": "netstandard1.6",
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            },
+            "System.Collections.Immutable": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Memory": {
+              "target": "Package",
+              "version": "[4.5.4, )"
+            },
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
